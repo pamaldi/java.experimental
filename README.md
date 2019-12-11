@@ -1,8 +1,9 @@
 # Java Experimental
 
 Il progetto comprende una serie di esperimenti sulle features delle ultime versioni di java.
+
 Attualmente la preview è limitata alla versione 13 e include le seguenti features:
-switch (package cloud.isaura.experimental.jdk13.switches)
+- switch (package cloud.isaura.experimental.jdk13.switches)
 
 ### Prerequisiti
 
