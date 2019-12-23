@@ -4,6 +4,7 @@ Il progetto comprende una serie di esperimenti sulle features delle ultime versi
 
 Attualmente la preview è limitata alla versione 13 e include le seguenti features:
 - switch (package cloud.isaura.experimental.jdk13.switches)
+- text block (package cloud.isaura.experimental.jdk13.textblocks)
 
 ### Prerequisiti
 
