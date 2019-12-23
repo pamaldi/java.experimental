@@ -1,4 +1,4 @@
-package cloud.isaura.experimental.jdk13.switches;
+package cloud.isaura.experimental.jdk13.textblocks;
 
 import cloud.isaura.experimental.jdk13.textblocks.TextBlock;
 import org.hamcrest.CoreMatchers;
